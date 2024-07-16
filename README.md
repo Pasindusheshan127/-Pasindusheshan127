@@ -8,7 +8,6 @@ Hello! I'm Pasindu Hettiarachchi, a passionate software engineer specializing in
 
 - **Name:** Pasindu Hettiarachchi
 - **Education:** BSc in Physical Science with majors in Computer Science, Mathematics, and Physics from the University of Sri Jayewardenepura
-- **Location:** Uyandena, Kurunegala
 - **Interests:** Web Development, Problem Solving, Open Source Contribution, Learning New Technologies
 
 ## Connect with Me
@@ -19,8 +18,8 @@ Hello! I'm Pasindu Hettiarachchi, a passionate software engineer specializing in
 
 ## Skills
 
-- **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
+- **Frontend:** React.js,next js, HTML, CSS, JavaScript,typescript
+- **Backend:** Node.js, Express.js,next js,nest js
 - **Database:** MongoDB, MySQL, SQL Server
 - **Tools:** VSCode, Git, Chrome DevTools
 - **Other:** Debugging Techniques, Agile Methodologies
@@ -32,12 +31,7 @@ Hello! I'm Pasindu Hettiarachchi, a passionate software engineer specializing in
 
 ## Projects
 
-### Current Projects
-
-#### Blog Application
-Developing a full-stack blog application using React.js for the frontend and MySQL for the database.
-- **Frontend:** Utilized React.js to create a dynamic and responsive user interface.
-- **Backend:** Implemented the backend with Node.js and Express.js. Organized the API into two main folders: controllers and routes.
+### Academic Projects
 
 #### MERN Stack Social Media Application
 Developing a social media application using the MERN stack, featuring user authentication, post creation, liking, commenting, and real-time updates.
@@ -48,8 +42,6 @@ Developing a social media application using the MERN stack, featuring user authe
   - Adding features like liking posts, following/unfollowing users, and image uploads.
   - Using Context API for global state management and ensuring secure user authentication.
 
-### Academic Projects
-
 #### MERN Stack Map Pinning Travel App
 Developed a full-stack travel app using the MERN stack and Mapbox, allowing users to pin and share travel locations with interactive maps.
 - **Key Responsibilities:**
@@ -58,6 +50,21 @@ Developed a full-stack travel app using the MERN stack and Mapbox, allowing user
   - Built user authentication and registration systems interfacing with MongoDB.
   - Added features like liking posts, following/unfollowing users, and image uploads.
   - Used Context API for global state management and ensured secure user authentication.
+
+#### Next.js RESTful API Project
+Developed a RESTful API backend using Next.js and MongoDB for user management, category handling, and blog operations.
+- **Key Responsibilities:**
+  - Implemented CRUD operations for users, categories, and blogs.
+  - Integrated JWT-based authentication middleware for secure API routes.
+  - Leveraged TypeScript for type-safe development and enhanced codebase reliability.
+  - **Technologies Used:**
+    -Next.js, MongoDB, Express.js
+    -TypeScript, JSON Web Tokens (JWT)
+
+#### Blog Application
+Developing a full-stack blog application using React.js for the frontend and MySQL for the database.
+- **Frontend:** Utilized React.js to create a dynamic and responsive user interface.
+- **Backend:** Implemented the backend with Node.js and Express.js. Organized the API into two main folders: controllers and routes.
 
 #### Food Ordering Web App
 Implemented features such as menu browsing, item selection, cart management, and order placement.
