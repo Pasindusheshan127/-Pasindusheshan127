@@ -78,8 +78,6 @@ Implemented features such as menu browsing, item selection, cart management, and
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasindusheshan127&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindusheshan127&layout=compact&theme=radical)
 
 ---
