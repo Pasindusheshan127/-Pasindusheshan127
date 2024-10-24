@@ -38,22 +38,6 @@ I'm a passionate software developer with a strong background in full-stack devel
 
 ---
 
-## 📌 **Projects**
-
-### 1. [Healthcare Patient Management System](https://github.com/Pasindusheshan127/helthcare-app)
-A responsive patient management system built using **Next.js** and **React**.
-- **Technologies**: ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### 2. [MERN Stack Map Pinning Travel App](https://github.com/Pasindusheshan127/Full-stack-map-pinning-travel-app)
-An interactive travel application where users can pin locations and share experiences.
-- **Technologies**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### 3. [NextAdmin Dashboard](https://github.com/safak/nextadmin)
-A responsive admin dashboard with **Next.js** and **React**, implementing user authentication and role-based access control.
-- **Technologies**: ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Recharts](https://img.shields.io/badge/-Recharts-FF5733?style=flat-square&logo=recharts&logoColor=white)
-
----
-
 ## 🏅 **Certifications**
 
 - **Build Fullstack WebApp with Next.js, React, and Strapi Backend** – [Certificate Link](https://www.udemy.com/certificate/UC-3b665bc5-5896-4e72-9d17-7d36d10b6c51/)
